@@ -7,6 +7,10 @@ enum {
   OPEN,READ,CLOS,PRTF,MALC,FREE,MSET,MCMP,EXIT
 };
 
+enum {
+  CHAR, INT, PTR
+};
+
 int main (int argc, char *argv[]) {
   return 0;
 }
