@@ -11,6 +11,19 @@ enum {
   CHAR, INT, PTR
 };
 
-int main (int argc, char *argv[]) {
+void next() {
+}
+
+void expression(int level) {
+}
+
+void program() {
+}
+
+int eval() {
+  return 0;
+}
+
+int main(int argc, char *argv[]) {
   return 0;
 }
